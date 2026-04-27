@@ -8,7 +8,7 @@
 **Project:** WhoofOrMeow — Cat vs Dog Image Classifier
 **Author:** Ahmed Aamer
 **Supervised by:** Dr. Mohamed Hamhme
-**Date:** April 2026
+**Date:** September 2024
 
 ---
 
